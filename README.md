@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Suporte N2
-- 🌱 Amante de SQL e atualmente estudando JS e Python
+- 🌱 Apaixonado por SQL e atualmente estudando JS e Python
 
 <div align="center">
   <a href="https://github.com/andreiazevedocesar">
