@@ -1,10 +1,10 @@
 
 <h1 align="center"
     <p>
-Hello pessoal! Sejam bem-vindos ao meu perfil! 👋
+Sejam bem-vindos ao meu perfil! 👋
 </h1>
 
-🔭 Hoje trabalho com Suporte N2
+🔭 Hoje trabalho com Suporte N2 - Pleno
 <br>
 🌱 Apaixonado por SQL e atualmente estudando JS e Python
 <br>
@@ -14,8 +14,8 @@ Hello pessoal! Sejam bem-vindos ao meu perfil! 👋
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=AndreiAzevedoCesar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=AndreiAzevedoCesar&theme=dark"/> 
     
-  <!-- Esperando projetos publicos <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiAzevedoCesar&layout=compact&langs_count=7&theme=dark"/>
-    -->
+     
+  <!--linguagens mais usadas  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiAzevedoCesar&layout=compact&langs_count=7&theme=dark"/>  -->
 </div> 
   
 <div style="display: inline_block"><br>
